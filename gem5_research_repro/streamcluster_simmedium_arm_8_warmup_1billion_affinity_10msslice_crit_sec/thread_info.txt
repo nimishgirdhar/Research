@@ -1,0 +1,624 @@
+Starting profiling
+
+Thread on system.switch_cpus1 with thread id 0 has become inactive.
+Time for this interval is 51660000
+cpu_state is  1 0 1 1 1 1 1 1
+ criticality_sum is  6.4575e+06 6.4575e+06 6.4575e+06 6.4575e+06 6.4575e+06 6.4575e+06 6.4575e+06 6.4575e+06
+
+Thread on system.switch_cpus1 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 0 0 0 0 0 0 0
+criticality_snapshot is  0 6.4575e+06 0 0 0 0 0 0
+
+Thread on system.switch_cpus3 with thread id 0 has become inactive.
+Time for this interval is 33879500
+cpu_state is  1 0 1 0 1 1 1 1
+ criticality_sum is  1.12974e+07 6.4575e+06 1.12974e+07 1.12974e+07 1.12974e+07 1.12974e+07 1.12974e+07 1.12974e+07
+
+Thread on system.switch_cpus3 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 3 0 0 0 0 0 0
+criticality_snapshot is  0 6.4575e+06 0 1.12974e+07 0 0 0 0
+
+Thread on system.switch_cpus4 with thread id 0 has become inactive.
+Time for this interval is 21201000
+cpu_state is  1 0 1 0 0 1 1 1
+ criticality_sum is  1.48309e+07 6.4575e+06 1.48309e+07 1.12974e+07 1.48309e+07 1.48309e+07 1.48309e+07 1.48309e+07
+
+Thread on system.switch_cpus4 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 3 4 0 0 0 0 0
+criticality_snapshot is  0 6.4575e+06 0 1.12974e+07 1.48309e+07 0 0 0
+
+Thread on system.switch_cpus5 with thread id 0 has become inactive.
+Time for this interval is 17902500
+cpu_state is  1 0 1 0 0 0 1 1
+ criticality_sum is  1.84114e+07 6.4575e+06 1.84114e+07 1.12974e+07 1.48309e+07 1.84114e+07 1.84114e+07 1.84114e+07
+
+Thread on system.switch_cpus5 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 3 4 5 0 0 0 0
+criticality_snapshot is  0 6.4575e+06 0 1.12974e+07 1.48309e+07 1.84114e+07 0 0
+
+Thread on system.switch_cpus6 with thread id 0 has become inactive.
+Time for this interval is 18452000
+cpu_state is  1 0 1 0 0 0 0 1
+ criticality_sum is  2.30244e+07 6.4575e+06 2.30244e+07 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 2.30244e+07
+
+Thread on system.switch_cpus6 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 3 4 5 6 0 0 0
+criticality_snapshot is  0 6.4575e+06 0 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 0
+
+Thread on system.switch_cpus7 with thread id 0 has become inactive.
+Time for this interval is 19214500
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  2.94293e+07 6.4575e+06 2.94293e+07 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 2.94293e+07
+
+Thread on system.switch_cpus7 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 3 4 5 6 7 0 0
+criticality_snapshot is  0 6.4575e+06 0 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 2.94293e+07
+
+Thread on system.switch_cpus0 with thread id 0 has become inactive.
+Time for this interval is 17298000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  3.80783e+07 6.4575e+06 3.80783e+07 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 2.94293e+07
+
+Thread on system.switch_cpus0 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 3 4 5 6 7 0 0
+criticality_snapshot is  3.80783e+07 6.4575e+06 0 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 2.94293e+07
+
+Thread on system.switch_cpus2 with thread id 0 has become inactive.
+Time for this interval is 206881000
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  3.80783e+07 6.4575e+06 2.44959e+08 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 2.94293e+07
+
+Thread on system.switch_cpus2 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 3 4 5 6 7 0 2
+criticality_snapshot is  3.80783e+07 6.4575e+06 2.44959e+08 1.12974e+07 1.48309e+07 1.84114e+07 2.30244e+07 2.94293e+07
+perfect prediction
+accurately predicted critical thread
+
+Refreshing the criticality sum counts as 10 ms has passed
+
+Thread on system.switch_cpus2 with thread id 0 has become active.
+Time for this interval is 3269500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  0 0 0 0 0 0 0 0
+
+Thread on system.switch_cpus1 with thread id 0 has become active.
+Time for this interval is 2441000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  0 0 2.441e+06 0 0 0 0 0
+
+Thread on system.switch_cpus3 with thread id 0 has become active.
+Time for this interval is 2960500
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  0 1.48025e+06 3.92125e+06 0 0 0 0 0
+
+Thread on system.switch_cpus4 with thread id 0 has become active.
+Time for this interval is 3224500
+cpu_state is  0 1 1 1 1 0 0 0
+ criticality_sum is  0 2.55508e+06 4.99608e+06 1.07483e+06 0 0 0 0
+
+Thread on system.switch_cpus5 with thread id 0 has become active.
+Time for this interval is 2797500
+cpu_state is  0 1 1 1 1 1 0 0
+ criticality_sum is  0 3.25446e+06 5.69546e+06 1.77421e+06 699375 0 0 0
+
+Thread on system.switch_cpus6 with thread id 0 has become active.
+Time for this interval is 53298500
+cpu_state is  0 1 1 1 1 1 1 0
+ criticality_sum is  0 1.39142e+07 1.63552e+07 1.24339e+07 1.13591e+07 1.06597e+07 0 0
+
+Thread on system.switch_cpus7 with thread id 0 has become active.
+Time for this interval is 2660500
+cpu_state is  0 1 1 1 1 1 1 1
+ criticality_sum is  0 1.43576e+07 1.67986e+07 1.28773e+07 1.18025e+07 1.11031e+07 443416 0
+
+Thread on system.switch_cpus0 with thread id 0 has become active.
+Time for this interval is 2070000
+cpu_state is  1 1 1 1 1 1 1 1
+ criticality_sum is  0 1.46533e+07 1.70943e+07 1.3173e+07 1.20982e+07 1.13988e+07 739130 295714
+
+Thread on system.switch_cpus1 with thread id 0 has become inactive.
+Time for this interval is 4653269000
+cpu_state is  1 0 1 1 1 1 1 1
+ criticality_sum is  5.81659e+08 5.96312e+08 5.98753e+08 5.94832e+08 5.93757e+08 5.93057e+08 5.82398e+08 5.81954e+08
+
+Thread on system.switch_cpus1 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 0 0 0 0 0 0 0
+criticality_snapshot is  0 5.96312e+08 0 0 0 0 0 0
+
+Thread on system.switch_cpus2 with thread id 0 has become inactive.
+Time for this interval is 324500
+cpu_state is  1 0 0 1 1 1 1 1
+ criticality_sum is  5.81705e+08 5.96312e+08 5.98799e+08 5.94878e+08 5.93803e+08 5.93104e+08 5.82444e+08 5.82001e+08
+
+Thread on system.switch_cpus2 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 2 0 0 0 0 0 0
+criticality_snapshot is  0 5.96312e+08 5.98799e+08 0 0 0 0 0
+
+Thread on system.switch_cpus3 with thread id 0 has become inactive.
+Time for this interval is 4425000
+cpu_state is  1 0 0 0 1 1 1 1
+ criticality_sum is  5.82442e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94541e+08 5.93841e+08 5.83182e+08 5.82738e+08
+
+Thread on system.switch_cpus3 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 2 3 0 0 0 0 0
+criticality_snapshot is  0 5.96312e+08 5.98799e+08 5.95616e+08 0 0 0 0
+
+Thread on system.switch_cpus4 with thread id 0 has become inactive.
+Time for this interval is 1181000
+cpu_state is  1 0 0 0 0 1 1 1
+ criticality_sum is  5.82679e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 5.94078e+08 5.83418e+08 5.82974e+08
+
+Thread on system.switch_cpus4 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 2 3 4 0 0 0 0
+criticality_snapshot is  0 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 0 0 0
+
+Thread on system.switch_cpus6 with thread id 0 has become inactive.
+Time for this interval is 55142500
+cpu_state is  1 0 0 0 0 1 0 1
+ criticality_sum is  5.96464e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 6.07863e+08 5.97203e+08 5.9676e+08
+
+Thread on system.switch_cpus6 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 2 3 4 6 0 0 0
+criticality_snapshot is  0 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 0 5.97203e+08 0
+
+Thread on system.switch_cpus7 with thread id 0 has become inactive.
+Time for this interval is 1553500
+cpu_state is  1 0 0 0 0 1 0 0
+ criticality_sum is  5.96982e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 6.08381e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus7 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 2 3 4 6 7 0 0
+criticality_snapshot is  0 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 0 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus0 with thread id 0 has become inactive.
+Time for this interval is 3050000
+cpu_state is  0 0 0 0 0 1 0 0
+ criticality_sum is  5.98507e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 6.09906e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus0 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 2 3 4 6 7 0 0
+criticality_snapshot is  5.98507e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 0 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus5 with thread id 0 has become inactive.
+Time for this interval is 30854000
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.98507e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 6.4076e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus5 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  1 2 3 4 6 7 0 5
+criticality_snapshot is  5.98507e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 6.4076e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus5 with thread id 0 has become active.
+Time for this interval is 970000
+cpu_state is  0 0 0 0 0 1 0 0
+ criticality_sum is  5.98507e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 6.4076e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus3 with thread id 0 has become active.
+Time for this interval is 57500
+cpu_state is  0 0 0 1 0 1 0 0
+ criticality_sum is  5.98507e+08 5.96312e+08 5.98799e+08 5.95616e+08 5.94777e+08 6.40817e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus2 with thread id 0 has become active.
+Time for this interval is 156500
+cpu_state is  0 0 1 1 0 1 0 0
+ criticality_sum is  5.98507e+08 5.96312e+08 5.98799e+08 5.95694e+08 5.94777e+08 6.40896e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus0 with thread id 0 has become active.
+Time for this interval is 154500
+cpu_state is  1 0 1 1 0 1 0 0
+ criticality_sum is  5.98507e+08 5.96312e+08 5.98851e+08 5.95745e+08 5.94777e+08 6.40947e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus7 with thread id 0 has become active.
+Time for this interval is 135000
+cpu_state is  1 0 1 1 0 1 0 1
+ criticality_sum is  5.98541e+08 5.96312e+08 5.98885e+08 5.95779e+08 5.94777e+08 6.40981e+08 5.97203e+08 5.97278e+08
+
+Thread on system.switch_cpus4 with thread id 0 has become active.
+Time for this interval is 134000
+cpu_state is  1 0 1 1 1 1 0 1
+ criticality_sum is  5.98568e+08 5.96312e+08 5.98911e+08 5.95806e+08 5.94777e+08 6.41008e+08 5.97203e+08 5.97305e+08
+
+Thread on system.switch_cpus1 with thread id 0 has become active.
+Time for this interval is 194500
+cpu_state is  1 1 1 1 1 1 0 1
+ criticality_sum is  5.986e+08 5.96312e+08 5.98944e+08 5.95838e+08 5.94809e+08 6.4104e+08 5.97203e+08 5.97337e+08
+
+Thread on system.switch_cpus2 with thread id 0 has become inactive.
+Time for this interval is 167500
+cpu_state is  1 1 0 1 1 1 0 1
+ criticality_sum is  5.98624e+08 5.96336e+08 5.98968e+08 5.95862e+08 5.94833e+08 6.41064e+08 5.97203e+08 5.97361e+08
+
+Thread on system.switch_cpus3 with thread id 0 has become inactive.
+Time for this interval is 1000
+cpu_state is  1 1 0 0 1 1 0 1
+ criticality_sum is  5.98624e+08 5.96336e+08 5.98968e+08 5.95862e+08 5.94833e+08 6.41064e+08 5.97203e+08 5.97361e+08
+
+Thread on system.switch_cpus5 with thread id 0 has become inactive.
+Time for this interval is 0
+cpu_state is  1 1 0 0 1 0 0 1
+ criticality_sum is  5.98624e+08 5.96336e+08 5.98968e+08 5.95862e+08 5.94833e+08 6.41064e+08 5.97203e+08 5.97361e+08
+
+Thread on system.switch_cpus2 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 0 0 0 0 0 0 0
+criticality_snapshot is  0 0 5.98968e+08 0 0 0 0 0
+
+Thread on system.switch_cpus5 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 5 0 0 0 0 0 0
+criticality_snapshot is  0 0 5.98968e+08 0 0 6.41064e+08 0 0
+
+Thread on system.switch_cpus3 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 5 3 0 0 0 0 0
+criticality_snapshot is  0 0 5.98968e+08 5.95862e+08 0 6.41064e+08 0 0
+
+Thread on system.switch_cpus6 with thread id 0 has become active.
+Time for this interval is 40000
+cpu_state is  1 1 0 0 1 0 1 1
+ criticality_sum is  5.98634e+08 5.96346e+08 5.98968e+08 5.95862e+08 5.94843e+08 6.41064e+08 5.97203e+08 5.97371e+08
+
+Thread on system.switch_cpus7 with thread id 0 has become inactive.
+Time for this interval is 16500
+cpu_state is  1 1 0 0 1 0 1 0
+ criticality_sum is  5.98638e+08 5.96349e+08 5.98968e+08 5.95862e+08 5.94847e+08 6.41064e+08 5.97207e+08 5.97374e+08
+
+Thread on system.switch_cpus7 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 5 3 7 0 0 0 0
+criticality_snapshot is  0 0 5.98968e+08 5.95862e+08 0 6.41064e+08 0 5.97374e+08
+
+Thread on system.switch_cpus4 with thread id 0 has become inactive.
+Time for this interval is 138000
+cpu_state is  1 1 0 0 0 0 1 0
+ criticality_sum is  5.98672e+08 5.96384e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97241e+08 5.97374e+08
+
+Thread on system.switch_cpus4 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 5 3 7 4 0 0 0
+criticality_snapshot is  0 0 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 0 5.97374e+08
+
+Thread on system.switch_cpus1 with thread id 0 has become inactive.
+Time for this interval is 120500
+cpu_state is  1 0 0 0 0 0 1 0
+ criticality_sum is  5.98712e+08 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97281e+08 5.97374e+08
+
+Thread on system.switch_cpus1 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 5 3 7 4 1 0 0
+criticality_snapshot is  0 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 0 5.97374e+08
+
+Thread on system.switch_cpus6 with thread id 0 has become inactive.
+Time for this interval is 179000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.98802e+08 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.97374e+08
+
+Thread on system.switch_cpus6 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 5 3 7 4 1 6 0
+criticality_snapshot is  0 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.97374e+08
+
+Thread on system.switch_cpus0 with thread id 0 has become inactive.
+Time for this interval is 581952000
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.18075e+09 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.97374e+08
+
+Thread on system.switch_cpus0 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  2 5 3 7 4 1 6 0
+criticality_snapshot is  1.18075e+09 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.97374e+08
+
+Thread on system.switch_cpus0 with thread id 0 has become active.
+Time for this interval is 5142000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.18075e+09 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.97374e+08
+
+Thread on system.switch_cpus1 with thread id 0 has become active.
+Time for this interval is 3771000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.18452e+09 5.96424e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.97374e+08
+
+Thread on system.switch_cpus7 with thread id 0 has become active.
+Time for this interval is 2993500
+cpu_state is  1 1 0 0 0 0 0 1
+ criticality_sum is  1.18602e+09 5.97921e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.97374e+08
+
+Thread on system.switch_cpus2 with thread id 0 has become active.
+Time for this interval is 3536000
+cpu_state is  1 1 1 0 0 0 0 1
+ criticality_sum is  1.1872e+09 5.99099e+08 5.98968e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.98553e+08
+
+Thread on system.switch_cpus4 with thread id 0 has become active.
+Time for this interval is 5205000
+cpu_state is  1 1 1 0 1 0 0 1
+ criticality_sum is  1.1885e+09 6.00401e+08 6.00269e+08 5.95862e+08 5.94881e+08 6.41064e+08 5.97371e+08 5.99854e+08
+
+Thread on system.switch_cpus6 with thread id 0 has become active.
+Time for this interval is 3111500
+cpu_state is  1 1 1 0 1 0 1 1
+ criticality_sum is  1.18912e+09 6.01023e+08 6.00891e+08 5.95862e+08 5.95503e+08 6.41064e+08 5.97371e+08 6.00477e+08
+
+Thread on system.switch_cpus5 with thread id 0 has become active.
+Time for this interval is 359956000
+cpu_state is  1 1 1 0 1 1 1 1
+ criticality_sum is  1.24912e+09 6.61016e+08 6.60884e+08 5.95862e+08 6.55496e+08 6.41064e+08 6.57364e+08 6.60469e+08
+
+Thread on system.switch_cpus3 with thread id 0 has become active.
+Time for this interval is 2614000
+cpu_state is  1 1 1 1 1 1 1 1
+ criticality_sum is  1.24949e+09 6.61389e+08 6.61257e+08 5.95862e+08 6.5587e+08 6.41438e+08 6.57737e+08 6.60843e+08
+
+Thread on system.switch_cpus7 with thread id 0 has become inactive.
+Time for this interval is 4401040500
+cpu_state is  1 1 1 1 1 1 1 0
+ criticality_sum is  1.79962e+09 1.21152e+09 1.21139e+09 1.14599e+09 1.206e+09 1.19157e+09 1.20787e+09 1.21097e+09
+
+Thread on system.switch_cpus7 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 0 0 0 0 0 0
+criticality_snapshot is  0 0 0 0 0 0 0 1.21097e+09
+
+Thread on system.switch_cpus0 with thread id 0 has become inactive.
+Time for this interval is 1767500
+cpu_state is  0 1 1 1 1 1 1 0
+ criticality_sum is  1.79987e+09 1.21177e+09 1.21164e+09 1.14624e+09 1.20625e+09 1.19182e+09 1.20812e+09 1.21097e+09
+
+Thread on system.switch_cpus0 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 0 0 0 0 0 0
+criticality_snapshot is  1.79987e+09 0 0 0 0 0 0 1.21097e+09
+
+Thread on system.switch_cpus1 with thread id 0 has become inactive.
+Time for this interval is 2491500
+cpu_state is  0 0 1 1 1 1 1 0
+ criticality_sum is  1.79987e+09 1.21219e+09 1.21206e+09 1.14666e+09 1.20667e+09 1.19224e+09 1.20853e+09 1.21097e+09
+
+Thread on system.switch_cpus1 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 1 0 0 0 0 0
+criticality_snapshot is  1.79987e+09 1.21219e+09 0 0 0 0 0 1.21097e+09
+
+Thread on system.switch_cpus4 with thread id 0 has become inactive.
+Time for this interval is 5772000
+cpu_state is  0 0 1 1 0 1 1 0
+ criticality_sum is  1.79987e+09 1.21219e+09 1.21321e+09 1.14781e+09 1.20782e+09 1.19339e+09 1.20969e+09 1.21097e+09
+
+Thread on system.switch_cpus4 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 1 4 0 0 0 0
+criticality_snapshot is  1.79987e+09 1.21219e+09 0 0 1.20782e+09 0 0 1.21097e+09
+
+Thread on system.switch_cpus6 with thread id 0 has become inactive.
+Time for this interval is 872000
+cpu_state is  0 0 1 1 0 1 0 0
+ criticality_sum is  1.79987e+09 1.21219e+09 1.21343e+09 1.14803e+09 1.20782e+09 1.19361e+09 1.20991e+09 1.21097e+09
+
+Thread on system.switch_cpus6 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 1 4 6 0 0 0
+criticality_snapshot is  1.79987e+09 1.21219e+09 0 0 1.20782e+09 0 1.20991e+09 1.21097e+09
+
+Thread on system.switch_cpus2 with thread id 0 has become inactive.
+Time for this interval is 119566500
+cpu_state is  0 0 0 1 0 1 0 0
+ criticality_sum is  1.79987e+09 1.21219e+09 1.25328e+09 1.18789e+09 1.20782e+09 1.23346e+09 1.20991e+09 1.21097e+09
+
+Thread on system.switch_cpus2 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 1 4 6 2 0 0
+criticality_snapshot is  1.79987e+09 1.21219e+09 1.25328e+09 0 1.20782e+09 0 1.20991e+09 1.21097e+09
+
+Thread on system.switch_cpus3 with thread id 0 has become inactive.
+Time for this interval is 267134000
+cpu_state is  0 0 0 0 0 1 0 0
+ criticality_sum is  1.79987e+09 1.21219e+09 1.25328e+09 1.32146e+09 1.20782e+09 1.36703e+09 1.20991e+09 1.21097e+09
+
+Thread on system.switch_cpus3 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 1 4 6 2 3 0
+criticality_snapshot is  1.79987e+09 1.21219e+09 1.25328e+09 1.32146e+09 1.20782e+09 0 1.20991e+09 1.21097e+09
+
+Thread on system.switch_cpus5 with thread id 0 has become inactive.
+Time for this interval is 111015000
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.79987e+09 1.21219e+09 1.25328e+09 1.32146e+09 1.20782e+09 1.47805e+09 1.20991e+09 1.21097e+09
+
+Thread on system.switch_cpus5 with thread id 0 has reached its checkpoint. 
+cpu_ranking is  7 0 1 4 6 2 3 5
+criticality_snapshot is  1.79987e+09 1.21219e+09 1.25328e+09 1.32146e+09 1.20782e+09 1.47805e+09 1.20991e+09 1.21097e+09
+wrong prediction
+wrong critical thread prediction as well
+
+Refreshing the criticality sum counts as 10 ms has passed
+
+Thread on system.switch_cpus5 with thread id 0 has become active.
+Time for this interval is 4565500
+cpu_state is  0 0 0 0 0 1 0 0
+ criticality_sum is  0 0 0 0 0 0 0 0
+
+Thread on system.switch_cpus5 with thread id 0 has reached critical section at tick value 3225669935500
+
+
+Thread on system.switch_cpus5 with thread id 0 has become inactive.
+Time for this interval is 7000
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  0 0 0 0 0 7000 0 0
+
+Thread on system.switch_cpus5 with thread id 0 has become active.
+Time for this interval is 51500
+cpu_state is  0 0 0 0 0 1 0 0
+ criticality_sum is  0 0 0 0 0 7000 0 0
+
+Thread on system.switch_cpus5 with thread id 0 has reached critical section at tick value 3225669993000
+
+
+Thread on system.switch_cpus3 with thread id 0 has become active.
+Time for this interval is 36000
+cpu_state is  0 0 0 1 0 1 0 0
+ criticality_sum is  0 0 0 0 0 43000 0 0
+
+Thread on system.switch_cpus3 with thread id 0 has reached critical section at tick value 3225670030000
+
+
+Thread on system.switch_cpus3 with thread id 0 has become inactive.
+Time for this interval is 7000
+cpu_state is  0 0 0 0 0 1 0 0
+ criticality_sum is  0 0 0 3500 0 46500 0 0
+
+Thread on system.switch_cpus3 with thread id 0 has become active.
+Time for this interval is 576000
+cpu_state is  0 0 0 1 0 1 0 0
+ criticality_sum is  0 0 0 3500 0 622500 0 0
+
+Thread on system.switch_cpus3 with thread id 0 has reached critical section at tick value 3225670612000
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus7 with thread id 0 has become active.
+Time for this interval is 1858500
+cpu_state is  0 0 0 1 0 1 0 1
+ criticality_sum is  0 0 0 932750 0 1.55175e+06 0 0
+
+Thread on system.switch_cpus7 with thread id 0 has reached critical section at tick value 3225672471500
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus7 with thread id 0 has become inactive.
+Time for this interval is 7000
+cpu_state is  0 0 0 1 0 1 0 0
+ criticality_sum is  0 0 0 935083 0 1.55408e+06 0 2333
+
+Thread on system.switch_cpus7 with thread id 0 has become active.
+Time for this interval is 85500
+cpu_state is  0 0 0 1 0 1 0 1
+ criticality_sum is  0 0 0 977833 0 1.59683e+06 0 2333
+
+Thread on system.switch_cpus7 with thread id 0 has reached critical section at tick value 3225672563000
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus0 with thread id 0 has become active.
+Time for this interval is 3587000
+cpu_state is  1 0 0 1 0 1 0 1
+ criticality_sum is  0 0 0 2.1735e+06 0 2.7925e+06 0 1.198e+06
+
+Thread on system.switch_cpus1 with thread id 0 has become active.
+Time for this interval is 6381000
+cpu_state is  1 1 0 1 0 1 0 1
+ criticality_sum is  1.59525e+06 0 0 3.76875e+06 0 4.38775e+06 0 2.79325e+06
+
+Thread on system.switch_cpus1 with thread id 0 has reached critical section at tick value 3225682597000
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus1 with thread id 0 has become inactive.
+Time for this interval is 72000
+cpu_state is  1 0 0 1 0 1 0 1
+ criticality_sum is  1.60965e+06 14400 0 3.78315e+06 0 4.40215e+06 0 2.80765e+06
+
+Thread on system.switch_cpus1 with thread id 0 has become active.
+Time for this interval is 82000
+cpu_state is  1 1 0 1 0 1 0 1
+ criticality_sum is  1.63015e+06 14400 0 3.80365e+06 0 4.42265e+06 0 2.82815e+06
+
+Thread on system.switch_cpus1 with thread id 0 has reached critical section at tick value 3225682685000
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus4 with thread id 0 has become active.
+Time for this interval is 3227000
+cpu_state is  1 1 0 1 1 1 0 1
+ criticality_sum is  2.27555e+06 659800 0 4.44905e+06 0 5.06805e+06 0 3.47355e+06
+
+Thread on system.switch_cpus4 with thread id 0 has reached critical section at tick value 3225685913000
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus4 with thread id 0 has become inactive.
+Time for this interval is 7000
+cpu_state is  1 1 0 1 0 1 0 1
+ criticality_sum is  2.27672e+06 660966 0 4.45022e+06 1166 5.06922e+06 0 3.47472e+06
+
+Thread on system.switch_cpus4 with thread id 0 has become active.
+Time for this interval is 83000
+cpu_state is  1 1 0 1 1 1 0 1
+ criticality_sum is  2.29332e+06 677566 0 4.46682e+06 1166 5.08582e+06 0 3.49132e+06
+
+Thread on system.switch_cpus4 with thread id 0 has reached critical section at tick value 3225686002000
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus6 with thread id 0 has become active.
+Time for this interval is 3456500
+cpu_state is  1 1 0 1 1 1 1 1
+ criticality_sum is  2.8694e+06 1.25365e+06 0 5.0429e+06 577249 5.6619e+06 0 4.0674e+06
+
+Thread on system.switch_cpus6 with thread id 0 has reached critical section at tick value 3225689476500
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus6 with thread id 0 has become inactive.
+Time for this interval is 24000
+cpu_state is  1 1 0 1 1 1 0 1
+ criticality_sum is  2.87283e+06 1.25708e+06 0 5.04633e+06 580677 5.66533e+06 3428 4.07083e+06
+
+Thread on system.switch_cpus6 with thread id 0 has become active.
+Time for this interval is 82000
+cpu_state is  1 1 0 1 1 1 1 1
+ criticality_sum is  2.88649e+06 1.27074e+06 0 5.05999e+06 594343 5.67899e+06 3428 4.08449e+06
+
+Thread on system.switch_cpus6 with thread id 0 has reached critical section at tick value 3225689564500
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus2 with thread id 0 has become active.
+Time for this interval is 1917500
+cpu_state is  1 1 1 1 1 1 1 1
+ criticality_sum is  3.16042e+06 1.54467e+06 0 5.33392e+06 868271 5.95292e+06 277356 4.35842e+06
+
+Thread on system.switch_cpus2 with thread id 0 has reached critical section at tick value 3225691483000
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus2 with thread id 0 has become inactive.
+Time for this interval is 7000
+cpu_state is  1 1 0 1 1 1 1 1
+ criticality_sum is  3.1613e+06 1.54555e+06 875 5.3348e+06 869146 5.9538e+06 278231 4.3593e+06
+
+Thread on system.switch_cpus2 with thread id 0 has become active.
+Time for this interval is 86500
+cpu_state is  1 1 1 1 1 1 1 1
+ criticality_sum is  3.17365e+06 1.5579e+06 875 5.34715e+06 881503 5.96615e+06 290588 4.37165e+06
+
+Thread on system.switch_cpus2 with thread id 0 has reached critical section at tick value 3225691575500
+ERROR: More than one cpu in a critical section
+
+
+Thread on system.switch_cpus0 with thread id 0 has become inactive.
+Time for this interval is 196404000
+cpu_state is  0 1 1 1 1 1 1 1
+ criticality_sum is  2.77242e+07 2.61084e+07 2.45514e+07 2.98977e+07 2.5432e+07 3.05167e+07 2.48411e+07 2.89222e+07
+
+Thread on system.switch_cpus0 with thread id 0 has become active.
+Time for this interval is 97000
+cpu_state is  1 1 1 1 1 1 1 1
+ criticality_sum is  2.77242e+07 2.61223e+07 2.45652e+07 2.99115e+07 2.54459e+07 3.05305e+07 2.48549e+07 2.8936e+07
+
+Thread on system.switch_cpus5 with thread id 0 has reached critical section at tick value 3225891843000
+ERROR: More than one cpu in a critical section
+Time spent in critical section by cpu system.switch_cpus5 is 200267500
+critical_section_state is  0 2 2 2 2 3 2 2
+
+Thread on system.switch_cpus3 with thread id 0 has reached critical section at tick value 3225895182000
+ERROR: More than one cpu in a critical section
+Time spent in critical section by cpu system.switch_cpus3 is 3225694914500
+critical_section_state is  0 2 2 3 2 3 2 2
+
+Thread on system.switch_cpus7 with thread id 0 has reached critical section at tick value 3225900421500
+ERROR: More than one cpu in a critical section
+Time spent in critical section by cpu system.switch_cpus7 is 205507000
+critical_section_state is  0 2 2 3 2 3 2 3
+
+Thread on system.switch_cpus1 with thread id 0 has reached critical section at tick value 3225903215000
+ERROR: More than one cpu in a critical section
+Time spent in critical section by cpu system.switch_cpus1 is 3225697708000
+critical_section_state is  0 3 2 3 2 3 2 3
+
+Thread on system.switch_cpus4 with thread id 0 has reached critical section at tick value 3225905817000
+ERROR: More than one cpu in a critical section
+Time spent in critical section by cpu system.switch_cpus4 is 208109000
+critical_section_state is  0 3 2 3 3 3 2 3
+
+Thread on system.switch_cpus6 with thread id 0 has reached critical section at tick value 3225908507000
+Time spent in critical section by cpu system.switch_cpus6 is 3225700398000
+critical_section_state is  0 3 2 3 3 3 3 3
+
+Thread on system.switch_cpus2 with thread id 0 has reached critical section at tick value 3226527737000
+Time spent in critical section by cpu system.switch_cpus2 is 827339000
+critical_section_state is  0 3 3 3 3 3 3 3
+

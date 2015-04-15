@@ -1,0 +1,5 @@
+#!/bin/sh
+# Script to run the bodytrack benchmark
+cd parsec-3.0
+./run bodytrack simsmall 4
+m5 exit

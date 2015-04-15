@@ -1,0 +1,6 @@
+#!/bin/sh
+# Script to run the facesim benchmark
+cd parsec-3.0
+./run facesim test 4
+m5 exit
+

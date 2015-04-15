@@ -1,0 +1,6 @@
+#!/bin/sh
+# Script to run the ferret benchmark
+cd parsec-3.0
+./run ferret simlarge 4
+m5 exit
+

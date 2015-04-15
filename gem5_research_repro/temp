@@ -1,0 +1,29 @@
+scons: Reading SConscript files ...
+Warning: Protocol buffer compiler (protoc) not found.
+         Please install protobuf-compiler for tracing support.
+Checking for leading underscore in global variables...(cached) no
+Checking for C header file Python.h... (cached) yes
+Checking for C library pthread... (cached) yes
+Checking for C library dl... (cached) yes
+Checking for C library util... (cached) yes
+Checking for C library m... (cached) yes
+Checking for C library python2.7... (cached) yes
+Checking for accept(0,0,0) in C++ library None... (cached) yes
+Checking for zlibVersion() in C++ library z... (cached) yes
+Checking for clock_nanosleep(0,0,NULL,NULL) in C library None... (cached) yes
+Checking for timer_create(CLOCK_MONOTONIC, NULL, NULL) in C library None... (cached) no
+Checking for timer_create(CLOCK_MONOTONIC, NULL, NULL) in C library rt... (cached) yes
+Checking for C library tcmalloc... (cached) yes
+Checking for C header file fenv.h... (cached) yes
+Checking for C header file linux/kvm.h... (cached) yes
+Checking size of struct kvm_xsave ... (cached) yes
+Checking for member exclude_host in struct perf_event_attr...(cached) yes
+Building in /media/nimishg/Research/research/gem5_research_repro/build/ARM
+Using saved variables file /media/nimishg/Research/research/gem5_research_repro/build/variables/ARM
+scons: done reading SConscript files.
+scons: Building targets ...
+ [ISA DESC] ARM/arch/arm/isa/main.isa -> generated/inc.d
+In file included from /media/nimishg/Research/research/gem5_research_repro/build/ARM/arch/arm/isa/main.isa:
+  In file included from /media/nimishg/Research/research/gem5_research_repro/build/ARM/arch/arm/isa/formats/formats.isa:
+scons: building terminated because of errors.
+scons: writing .sconsign file.

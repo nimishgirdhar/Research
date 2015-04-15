@@ -1,0 +1,24 @@
+IF this is printed, there should be a checkpoint!
+Creating thread number 0
+Creating thread number 1
+Assigning cpu_id 0
+
+Creating thread number 2
+Assigning cpu_id 1
+
+Creating thread number 3
+Assigning cpu_id 2
+
+Creating thread number 4
+Assigning cpu_id 3
+
+Creating thread number 5
+Assigning cpu_id 4
+
+Creating thread number 6
+Assigning cpu_id 5
+
+Assigning cpu_id 6
+
+Assigning cpu_id 7
+

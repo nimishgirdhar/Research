@@ -1,0 +1,6 @@
+#!/bin/sh
+# Script to run the streamcluster benchmark
+cd parsec-3.0
+./run streamcluster simsmall 8
+m5 exit
+

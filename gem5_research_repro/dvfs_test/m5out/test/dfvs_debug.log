@@ -1,0 +1,4 @@
+      0: system.cpu0.isa: ISA system set to: 0x360ed00 0x360ed00
+      0: system.cpu1.isa: ISA system set to: 0x360ed00 0x360ed00
+119856983000: system.terminal: attach terminal 0
+404212354000: system.realview.energy_ctrl: dvfs handler disabled, return 0 for read from reg 0

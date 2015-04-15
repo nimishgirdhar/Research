@@ -1,0 +1,7 @@
+#!/bin/sh
+# Script to run the dedup benchmark
+cd parsec-3.0
+export PATH=/parsec-3.0/bin/:$PATH
+export LD_LIBRARY_PATH=/parsec-3.0/libhooks:$LD_LIBRARY_PATH
+dedup -c -p -v -t 4 -i inputs/simmedium/dedup/media.dat -o output.dat.ddp
+m5 exit

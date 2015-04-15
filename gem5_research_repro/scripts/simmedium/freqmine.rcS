@@ -1,0 +1,6 @@
+#!/bin/sh
+# Script to run the freqmine benchmark
+cd parsec-3.0
+./run freqmine simmedium 4
+m5 exit
+

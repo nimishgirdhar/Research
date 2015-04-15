@@ -1,0 +1,5 @@
+IF this is printed, there should be a checkpoint!
+[HOOKS] Leaving ROI
+Saving file "out.fluid"...
+[HOOKS] Total time spent in ROI: 0.038s
+[HOOKS] Terminating

@@ -1,0 +1,8 @@
+#!/bin/sh
+# Script to run the dedup benchmark
+cd parsec-3.0/bin
+./parsecmgmt -a run -p dedup -c gcc-hooks -i simlarge -n 4
+#export PATH=/parsec-3.0/bin/:$PATH
+#export LD_LIBRARY_PATH=/parsec-3.0/libhooks:$LD_LIBRARY_PATH
+#dedup -c -p -v -t 4 -i inputs/simlarge/dedup/media.dat -o output.dat.ddp
+m5 exit

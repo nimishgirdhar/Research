@@ -1,0 +1,6 @@
+#!/bin/sh
+# Script to run the blackscholes benchmark
+cd parsec-3.0
+./run blackscholes simlarge 4
+m5 exit
+

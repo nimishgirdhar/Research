@@ -1,0 +1,3544 @@
+ Thread on system.switch_cpus0 has reached start_profiling. 
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 72441500
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  1.81104e+07 1.81104e+07 1.81104e+07 1.81104e+07 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 6577000
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  2.03027e+07 1.81104e+07 2.03027e+07 2.03027e+07 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 17159000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  2.88822e+07 1.81104e+07 2.03027e+07 2.88822e+07 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 119973000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.48855e+08 1.81104e+07 2.03027e+07 2.88822e+07 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 4930000
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  1.53785e+08 1.81104e+07 2.03027e+07 2.88822e+07 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 84500
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  1.53827e+08 1.81104e+07 2.03027e+07 2.89245e+07 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 2209500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.54564e+08 1.81104e+07 2.10392e+07 2.9661e+07 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1496974000
+
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  5.28807e+08 3.92354e+08 3.95283e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 80803000
+
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  5.55742e+08 4.19288e+08 4.22217e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 39118500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.75301e+08 4.38847e+08 4.22217e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 142140000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  7.17441e+08 4.38847e+08 4.22217e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1676204500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.55554e+09 1.27695e+09 4.22217e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 3078000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.55862e+09 1.27695e+09 4.22217e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 778000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.55901e+09 1.27734e+09 4.22217e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 4427000
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  1.56344e+09 1.27734e+09 4.22217e+08 4.03904e+08 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 432000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.56365e+09 1.27734e+09 4.22217e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 6886500
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  1.57054e+09 1.27734e+09 4.22217e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 483000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.57078e+09 1.27734e+09 4.22459e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 2098500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.57288e+09 1.27734e+09 4.22459e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 241328500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.69354e+09 1.398e+09 4.22459e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 143748000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.83729e+09 1.398e+09 4.22459e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3484500
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  1.83903e+09 1.39975e+09 4.22459e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 4867500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.84066e+09 1.40137e+09 4.24081e+08 4.0412e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 2153000
+ERROR activating an already active thread
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.8412e+09 1.40191e+09 4.24619e+08 4.04659e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1499426500
+
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  2.21605e+09 1.77676e+09 7.99476e+08 7.79515e+08 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 5098500
+
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  2.21775e+09 1.77846e+09 7.99476e+08 7.81215e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 7915000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  2.22171e+09 1.78242e+09 7.99476e+08 7.81215e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1992987000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  4.2147e+09 1.78242e+09 7.99476e+08 7.81215e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 11641500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  4.22634e+09 1.78242e+09 7.99476e+08 7.81215e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 22500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  4.22635e+09 1.78243e+09 7.99476e+08 7.81215e+08 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 5188500
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  4.23154e+09 1.78243e+09 7.99476e+08 7.81215e+08 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 104500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  4.23159e+09 1.78243e+09 7.99476e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 3948000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  4.23554e+09 1.78243e+09 7.99476e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 2233000
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  4.23665e+09 1.78355e+09 7.99476e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 45500
+
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  4.23667e+09 1.78356e+09 7.99491e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 56425500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  4.26488e+09 1.81178e+09 7.99491e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 45500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  4.26493e+09 1.81178e+09 7.99491e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 862978500
+ERROR activating an already active thread
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  4.69642e+09 2.24326e+09 7.99491e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 5355000
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  4.69909e+09 2.24594e+09 7.99491e+08 7.81267e+08 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 4300500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  4.70053e+09 2.24738e+09 7.99491e+08 7.82701e+08 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 755018000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  4.88928e+09 2.43613e+09 9.88246e+08 9.71455e+08 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 749674000
+
+cpu_state is  0 0 1 1 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.23814e+09 1.22135e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 6276000
+
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.24127e+09 1.22448e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1716000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.24299e+09 1.22448e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 2367500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.24299e+09 1.22448e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.24301e+09 1.22448e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 285000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.24301e+09 1.22448e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 277500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.13917e+09 2.43613e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.13919e+09 2.43613e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 2496500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.13919e+09 2.43613e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 63500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.13919e+09 2.43619e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 276000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.13919e+09 2.43619e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 136500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  5.13919e+09 2.43633e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 12000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.13919e+09 2.43634e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 147000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  5.13919e+09 2.43648e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 12500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.1392e+09 2.43649e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 182000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  5.1392e+09 2.43667e+09 1.24301e+09 1.2245e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 12500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.1392e+09 2.43668e+09 1.24301e+09 1.22451e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 190514500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.1392e+09 2.62719e+09 1.24301e+09 1.22451e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 172000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.1392e+09 2.62719e+09 1.24301e+09 1.22451e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 5487000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  5.1392e+09 2.63268e+09 1.24301e+09 1.22451e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3557000
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  5.1392e+09 2.63446e+09 1.24479e+09 1.22451e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 3781000
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  5.1392e+09 2.63572e+09 1.24605e+09 1.22577e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1490108000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  5.51172e+09 3.00824e+09 1.61858e+09 1.59829e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 4460500
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  5.51321e+09 3.00824e+09 1.62007e+09 1.59978e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 4774000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.5156e+09 3.00824e+09 1.62007e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 325000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51592e+09 3.00824e+09 1.62007e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 322500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.51592e+09 3.00824e+09 1.62007e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00824e+09 1.62007e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 102500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00824e+09 1.62007e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00824e+09 1.62008e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 302000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00824e+09 1.62008e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00831e+09 1.62008e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 101500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00831e+09 1.62008e+09 1.60217e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00831e+09 1.62008e+09 1.60218e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 874000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00831e+09 1.62008e+09 1.60218e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00831e+09 1.62008e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 99000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.51594e+09 3.00831e+09 1.62008e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 5000
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  5.51595e+09 3.00831e+09 1.62008e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 6500
+
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  5.51595e+09 3.00831e+09 1.62009e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 5000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51595e+09 3.00831e+09 1.62009e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 154000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.51595e+09 3.00831e+09 1.62009e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 87309500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.51595e+09 3.09562e+09 1.62009e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.51595e+09 3.09562e+09 1.62009e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 6479000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  5.51595e+09 3.1021e+09 1.62009e+09 1.6022e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 5672000
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  5.51595e+09 3.10493e+09 1.62009e+09 1.60503e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 3597000
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  5.51595e+09 3.10613e+09 1.62129e+09 1.60623e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1495485000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  5.88982e+09 3.48e+09 1.99516e+09 1.9801e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 7696500
+
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  5.89239e+09 3.48e+09 1.99773e+09 1.98267e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 2786500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.89378e+09 3.48e+09 1.99912e+09 1.98267e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 4278000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.89806e+09 3.48e+09 1.99912e+09 1.98267e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 296000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  5.89806e+09 3.48e+09 1.99912e+09 1.98267e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48e+09 1.99912e+09 1.98267e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 97500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48e+09 1.99912e+09 1.98267e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48e+09 1.99912e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 417000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48e+09 1.99912e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 358500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48007e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 246000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48007e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 125500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48019e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.4802e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 109500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48031e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48031e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 179000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48049e+09 1.99914e+09 1.98268e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.4805e+09 1.99914e+09 1.98269e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1470000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48197e+09 1.99914e+09 1.98269e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48197e+09 1.99914e+09 1.98269e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 1641000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48361e+09 1.99914e+09 1.98269e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 6350500
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48679e+09 1.99914e+09 1.98587e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 3625500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  5.89808e+09 3.48799e+09 2.00035e+09 1.98707e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1495405000
+
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  6.27193e+09 3.86184e+09 2.3742e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 3411500
+
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  6.27307e+09 3.86298e+09 2.37534e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1585500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.27386e+09 3.86298e+09 2.37613e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 3872000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27773e+09 3.86298e+09 2.37613e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 272500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.27773e+09 3.86298e+09 2.37613e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86298e+09 2.37613e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 129000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86298e+09 2.37613e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 66000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37613e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 359000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37613e+09 2.36093e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37613e+09 2.36094e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 222500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37613e+09 2.36094e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37615e+09 2.36094e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 837000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37615e+09 2.36094e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37615e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 81500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37615e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 12500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37616e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 6500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86305e+09 2.37616e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 166000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  6.27775e+09 3.86321e+09 2.37616e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 11000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.27776e+09 3.86322e+09 2.37616e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 30717500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.27776e+09 3.89394e+09 2.37616e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.27776e+09 3.89394e+09 2.37616e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3423000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  6.27776e+09 3.89736e+09 2.37616e+09 2.36095e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4022000
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  6.27776e+09 3.89937e+09 2.37616e+09 2.36296e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3383000
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  6.27889e+09 3.9005e+09 2.37616e+09 2.36409e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1490229500
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  6.65144e+09 4.27306e+09 2.74872e+09 2.73665e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 5392000
+
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  6.65324e+09 4.27306e+09 2.75052e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 3255500
+
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  6.65487e+09 4.27306e+09 2.75215e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 3566500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65487e+09 4.27306e+09 2.75571e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 290000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  6.65487e+09 4.27306e+09 2.75571e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65487e+09 4.27306e+09 2.75573e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 277500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.65487e+09 4.27306e+09 2.75573e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27306e+09 2.75573e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 212500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27306e+09 2.75573e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75573e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 307500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75573e+09 2.73845e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75573e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3193000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75573e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 95500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 3500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 8000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27312e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 160500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27328e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.27329e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 30296500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30359e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 54500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30359e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1431000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30502e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 1814500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30502e+09 2.75574e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1210000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30502e+09 2.75695e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 1860500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30502e+09 2.75695e+09 2.73847e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1105500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30502e+09 2.75695e+09 2.73958e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 2146000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.65489e+09 4.30502e+09 2.75695e+09 2.73958e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 446500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.65534e+09 4.30502e+09 2.75695e+09 2.73958e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 287000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.65534e+09 4.30502e+09 2.75695e+09 2.73958e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 124000
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  6.65546e+09 4.30502e+09 2.75695e+09 2.73958e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 141500
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  6.65553e+09 4.30502e+09 2.75695e+09 2.73965e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 168500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  6.65559e+09 4.30507e+09 2.75695e+09 2.7397e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 20007000
+
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31008e+09 2.76195e+09 2.74471e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1000
+
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31008e+09 2.76195e+09 2.74471e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1000
+
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31008e+09 2.76195e+09 2.74471e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 36000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31008e+09 2.76195e+09 2.74474e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1185000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31008e+09 2.76195e+09 2.74474e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 116000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31019e+09 2.76195e+09 2.74474e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 6000
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  6.66059e+09 4.3102e+09 2.76196e+09 2.74474e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 31000
+
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31021e+09 2.76197e+09 2.74475e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 5500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31021e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 447000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  6.66059e+09 4.31066e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 25500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.66061e+09 4.31067e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.66062e+09 4.31067e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 513500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  6.66062e+09 4.31067e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 108500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  6.66062e+09 4.31078e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 5000
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  6.66062e+09 4.31078e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 28000
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  6.66063e+09 4.31079e+09 2.76197e+09 2.74476e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 100000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  6.66068e+09 4.31079e+09 2.76197e+09 2.74481e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 18000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.6607e+09 4.31079e+09 2.76197e+09 2.74481e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 1848500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  6.6607e+09 4.31079e+09 2.76197e+09 2.74481e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 130500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  6.6607e+09 4.31079e+09 2.7621e+09 2.74481e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 1165500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  6.6607e+09 4.31079e+09 2.7621e+09 2.74481e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 133000
+cpu_state is  0 0 1 1 0 0 0 0
+ criticality_sum is  6.6607e+09 4.31079e+09 2.7621e+09 2.74495e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 7000
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  6.6607e+09 4.31079e+09 2.7621e+09 2.74495e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 151500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  6.6607e+09 4.31084e+09 2.76215e+09 2.745e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1497562500
+
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  7.03509e+09 4.68523e+09 3.13654e+09 3.11939e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1082000
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  7.03545e+09 4.68559e+09 3.13654e+09 3.11975e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 3412000
+
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  7.03715e+09 4.68559e+09 3.13654e+09 3.12146e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 79542000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.03715e+09 4.68559e+09 3.13654e+09 3.201e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 329000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  7.03715e+09 4.68559e+09 3.13654e+09 3.201e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.03715e+09 4.68559e+09 3.13654e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 102000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  7.03715e+09 4.68559e+09 3.13654e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.03717e+09 4.68559e+09 3.13654e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 93000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  7.03717e+09 4.68559e+09 3.13654e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.03717e+09 4.68559e+09 3.13656e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 151500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.03717e+09 4.68559e+09 3.13656e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 202898000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.03717e+09 4.88849e+09 3.13656e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.03717e+09 4.88849e+09 3.13656e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 4230000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  7.03717e+09 4.89272e+09 3.13656e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3258500
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  7.03717e+09 4.89435e+09 3.13819e+09 3.20102e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4291000
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  7.03717e+09 4.89578e+09 3.13962e+09 3.20245e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1491172000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  7.40996e+09 5.26857e+09 3.51241e+09 3.57524e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 3798500
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  7.41123e+09 5.26857e+09 3.51368e+09 3.57651e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 2803500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  7.41263e+09 5.26857e+09 3.51368e+09 3.57791e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 4157000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.41679e+09 5.26857e+09 3.51368e+09 3.57791e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 307000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  7.41679e+09 5.26857e+09 3.51368e+09 3.57791e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26857e+09 3.51368e+09 3.57791e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 87000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26857e+09 3.51368e+09 3.57791e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26857e+09 3.51368e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 301000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26857e+09 3.51368e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 21000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26857e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 354000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26857e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26864e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 251500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26864e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 108500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26874e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26875e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 107000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26886e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 5500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26886e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 154500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26901e+09 3.5137e+09 3.57792e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.26902e+09 3.5137e+09 3.57793e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 47074500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.31609e+09 3.5137e+09 3.57793e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.31609e+09 3.5137e+09 3.57793e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3362500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.31946e+09 3.5137e+09 3.57793e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 315570500
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  7.41681e+09 5.47724e+09 3.67149e+09 3.57793e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3629500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  7.41802e+09 5.47845e+09 3.6727e+09 3.57793e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1183601500
+
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  7.71392e+09 5.77435e+09 3.9686e+09 3.87383e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1285000
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  7.71435e+09 5.77478e+09 3.9686e+09 3.87426e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 311595000
+
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  7.87014e+09 5.77478e+09 3.9686e+09 4.03006e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 3883500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87014e+09 5.77478e+09 3.9686e+09 4.03394e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 2043000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  7.87014e+09 5.77478e+09 3.9686e+09 4.03394e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87014e+09 5.77478e+09 3.9686e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 1306500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  7.87014e+09 5.77478e+09 3.9686e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 18500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77478e+09 3.9686e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 1672000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77478e+09 3.9686e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 33000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77478e+09 3.96863e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1660000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77478e+09 3.96863e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 71500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77485e+09 3.96863e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 264000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77485e+09 3.96863e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 106000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77496e+09 3.96863e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77496e+09 3.96863e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 115500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77508e+09 3.96863e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 12500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77508e+09 3.96864e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 180000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  7.87016e+09 5.77526e+09 3.96864e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 12000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87017e+09 5.77527e+09 3.96864e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 62160500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87017e+09 5.83743e+09 3.96864e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 43000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87017e+09 5.83743e+09 3.96864e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 2227500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87017e+09 5.83966e+09 3.96864e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3867500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  7.87017e+09 5.83966e+09 3.96864e+09 4.03396e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1324000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87017e+09 5.83966e+09 3.96864e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 2639000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  7.87017e+09 5.83966e+09 3.96864e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 1134000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.8713e+09 5.83966e+09 3.96864e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3392500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  7.8713e+09 5.83966e+09 3.96864e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 535500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.8713e+09 5.83966e+09 3.96917e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 288500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  7.8713e+09 5.83966e+09 3.96917e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 110000
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  7.8713e+09 5.83966e+09 3.96928e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 125000
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  7.87137e+09 5.83966e+09 3.96935e+09 4.03529e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 160000
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  7.87142e+09 5.83966e+09 3.9694e+09 4.03534e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19192500
+
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84446e+09 3.9742e+09 4.04014e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 645000
+
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84467e+09 3.97441e+09 4.04035e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 113000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84473e+09 3.97447e+09 4.04035e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 213500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84494e+09 3.97447e+09 4.04035e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 247000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84494e+09 3.97447e+09 4.04035e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 118000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84506e+09 3.97447e+09 4.04035e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 33500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84508e+09 3.97449e+09 4.04035e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 94500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84517e+09 3.97449e+09 4.04035e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 32500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84519e+09 3.97449e+09 4.04037e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 262000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84545e+09 3.97449e+09 4.04037e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 142000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  7.87622e+09 5.84545e+09 3.97449e+09 4.04037e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 37000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87625e+09 5.84545e+09 3.97449e+09 4.04037e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 3228500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  7.87625e+09 5.84545e+09 3.97449e+09 4.04037e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 101000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  7.87636e+09 5.84545e+09 3.97449e+09 4.04037e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 55000
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  7.87638e+09 5.84548e+09 3.97449e+09 4.04037e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 82000
+
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  7.87641e+09 5.8455e+09 3.97449e+09 4.0404e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 19500
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  7.87641e+09 5.84551e+09 3.97449e+09 4.0404e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 152000
+
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  7.87641e+09 5.84556e+09 3.97454e+09 4.04046e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 39500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87641e+09 5.84558e+09 3.97456e+09 4.04046e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 228230500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  7.87641e+09 6.07381e+09 3.97456e+09 4.04046e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1599500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  7.87641e+09 6.07381e+09 3.97456e+09 4.04046e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 3658000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  7.87641e+09 6.07747e+09 3.97456e+09 4.04046e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3638000
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  7.87823e+09 6.07929e+09 3.97456e+09 4.04046e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3852000
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  7.87951e+09 6.08058e+09 3.97584e+09 4.04046e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1495123500
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  8.25329e+09 6.45436e+09 4.34962e+09 4.41424e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 3957000
+
+cpu_state is  0 0 1 1 0 0 0 0
+ criticality_sum is  8.25461e+09 6.45436e+09 4.35094e+09 4.41556e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 2103500
+
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  8.25461e+09 6.45436e+09 4.35199e+09 4.41661e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 5754500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.25461e+09 6.45436e+09 4.35199e+09 4.42236e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 327500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  8.25461e+09 6.45436e+09 4.35199e+09 4.42236e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.25461e+09 6.45436e+09 4.35199e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 116500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  8.25461e+09 6.45436e+09 4.35199e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.25463e+09 6.45436e+09 4.35199e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 114500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  8.25463e+09 6.45436e+09 4.35199e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.25463e+09 6.45436e+09 4.35201e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 138000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.25463e+09 6.45436e+09 4.35201e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 36178500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.25463e+09 6.49054e+09 4.35201e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.25463e+09 6.49054e+09 4.35201e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3325000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  8.25463e+09 6.49386e+09 4.35201e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3187500
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  8.25463e+09 6.49545e+09 4.3536e+09 4.42238e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 6936500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  8.25463e+09 6.49777e+09 4.35591e+09 4.42469e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1498405500
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  8.62923e+09 6.87237e+09 4.73051e+09 4.79929e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 2625000
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  8.6301e+09 6.87237e+09 4.73139e+09 4.80017e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 3877000
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  8.63204e+09 6.87237e+09 4.73139e+09 4.8021e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 7424500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.63947e+09 6.87237e+09 4.73139e+09 4.8021e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 364000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  8.63947e+09 6.87237e+09 4.73139e+09 4.8021e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87237e+09 4.73139e+09 4.8021e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 111000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87237e+09 4.73139e+09 4.8021e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87237e+09 4.73141e+09 4.8021e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 267500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87237e+09 4.73141e+09 4.8021e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87237e+09 4.73141e+09 4.80212e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 352500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87237e+09 4.73141e+09 4.80212e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87243e+09 4.73141e+09 4.80212e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 262000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87243e+09 4.73141e+09 4.80212e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 103500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87254e+09 4.73141e+09 4.80212e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87254e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 103500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87264e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 12500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87265e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 166500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87282e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.87282e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 87535500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.96036e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.96036e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3464000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  8.63949e+09 6.96382e+09 4.73141e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3019500
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  8.63949e+09 6.96533e+09 4.73292e+09 4.80213e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 5390500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  8.63949e+09 6.96713e+09 4.73472e+09 4.80393e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1506235000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  9.01605e+09 7.34369e+09 5.11128e+09 5.18048e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 3335500
+
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  9.01716e+09 7.34369e+09 5.11239e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 29922000
+
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  9.03212e+09 7.34369e+09 5.12735e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 36765500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.03212e+09 7.34369e+09 5.16412e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 293500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  9.03212e+09 7.34369e+09 5.16412e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 21000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.03212e+09 7.34369e+09 5.16414e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 259500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  9.03212e+09 7.34369e+09 5.16414e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34369e+09 5.16414e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 266000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34369e+09 5.16414e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34375e+09 5.16414e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 240500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34375e+09 5.16414e+09 5.1816e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34375e+09 5.16414e+09 5.18161e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 4600500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34375e+09 5.16414e+09 5.18161e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 108000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34386e+09 5.16414e+09 5.18161e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34387e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 50000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  9.03214e+09 7.34392e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 12000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.03215e+09 7.34392e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 89000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  9.03215e+09 7.34401e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.03215e+09 7.34402e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 52539000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.03215e+09 7.39656e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.03215e+09 7.39656e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3358000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  9.03215e+09 7.39991e+09 5.16414e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 5402000
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  9.03215e+09 7.40261e+09 5.16684e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3421500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  9.03329e+09 7.40375e+09 5.16798e+09 5.18162e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1483583500
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  9.40418e+09 7.77465e+09 5.53888e+09 5.55252e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 3601000
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  9.40538e+09 7.77465e+09 5.54008e+09 5.55372e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 4197500
+
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  9.40748e+09 7.77465e+09 5.54008e+09 5.55582e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1873500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.40748e+09 7.77465e+09 5.54008e+09 5.55769e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 243500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  9.40748e+09 7.77465e+09 5.54008e+09 5.55769e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.40748e+09 7.77465e+09 5.54008e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 102000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  9.40748e+09 7.77465e+09 5.54008e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77465e+09 5.54008e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 257500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77465e+09 5.54008e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 66000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77472e+09 5.54008e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 114000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77472e+09 5.54008e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 18500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77472e+09 5.5401e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 835000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77472e+09 5.5401e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77472e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 96500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77472e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 5500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77472e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77473e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 161000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.77489e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 12000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.7749e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 136442000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91134e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 43000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91134e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1551500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91289e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 1937000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91289e+09 5.54011e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1176000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91289e+09 5.54129e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 1850000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91289e+09 5.54129e+09 5.55771e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1152000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91289e+09 5.54129e+09 5.55887e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 2840500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  9.4075e+09 7.91289e+09 5.54129e+09 5.55887e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 593000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.4081e+09 7.91289e+09 5.54129e+09 5.55887e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 272000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  9.4081e+09 7.91289e+09 5.54129e+09 5.55887e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 124500
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  9.40822e+09 7.91289e+09 5.54129e+09 5.55887e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 135500
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  9.40829e+09 7.91289e+09 5.54129e+09 5.55893e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 172500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  9.40835e+09 7.91295e+09 5.54129e+09 5.55899e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19077500
+
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91772e+09 5.54605e+09 5.56376e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 176000
+
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91777e+09 5.54611e+09 5.56382e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 402500
+
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91798e+09 5.54631e+09 5.56382e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 126000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91798e+09 5.54644e+09 5.56382e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 248000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91798e+09 5.54644e+09 5.56382e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 33500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91798e+09 5.54647e+09 5.56382e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 71000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91798e+09 5.54647e+09 5.56382e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 312500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91829e+09 5.54647e+09 5.56382e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 34000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.9183e+09 5.54647e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 12500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  9.41312e+09 7.91832e+09 5.54647e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 36500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.41313e+09 7.91834e+09 5.54647e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 184000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.41313e+09 7.91852e+09 5.54647e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 687000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.41313e+09 7.91852e+09 5.54647e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 92000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  9.41313e+09 7.91861e+09 5.54647e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 22500
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  9.41315e+09 7.91862e+09 5.54647e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 133500
+
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  9.41319e+09 7.91867e+09 5.54652e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 48500
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  9.41321e+09 7.91869e+09 5.54652e+09 5.56384e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 44000
+
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  9.41323e+09 7.91871e+09 5.54652e+09 5.56385e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 198000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.41323e+09 7.91881e+09 5.54652e+09 5.56395e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 227840500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.41323e+09 8.14665e+09 5.54652e+09 5.56395e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1504500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.41323e+09 8.14665e+09 5.54652e+09 5.56395e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 2790500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  9.41323e+09 8.14944e+09 5.54652e+09 5.56395e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 2993000
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  9.41323e+09 8.15093e+09 5.54652e+09 5.56545e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 5999000
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  9.41323e+09 8.15293e+09 5.54852e+09 5.56745e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1481013500
+
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  9.78348e+09 8.52319e+09 5.91877e+09 5.9377e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 17000
+
+cpu_state is  1 0 1 0 0 0 0 0
+ criticality_sum is  9.78349e+09 8.52319e+09 5.91878e+09 5.9377e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 4725500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  9.78585e+09 8.52319e+09 5.92114e+09 5.9377e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 6553500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.7924e+09 8.52319e+09 5.92114e+09 5.9377e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 287000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  9.7924e+09 8.52319e+09 5.92114e+09 5.9377e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.52319e+09 5.92114e+09 5.9377e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 97500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  9.79242e+09 8.52319e+09 5.92114e+09 5.9377e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.52319e+09 5.92114e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 87000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.52319e+09 5.92114e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 163500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.52336e+09 5.92114e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.52336e+09 5.92115e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 74913000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.59828e+09 5.92115e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.59828e+09 5.92115e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 98380500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  9.79242e+09 8.69666e+09 5.92115e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 62911500
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  9.82388e+09 8.72811e+09 5.92115e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3351500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  9.82499e+09 8.72923e+09 5.92226e+09 5.93771e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1432556000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  1.01831e+10 9.08737e+09 6.2804e+09 6.29585e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 14625500
+
+cpu_state is  0 0 1 1 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.28528e+09 6.30073e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 63552500
+
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31706e+09 6.3325e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 3793000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31706e+09 6.3363e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 243500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31706e+09 6.3363e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31706e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 253500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31706e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31706e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 2558000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31706e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31707e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 159500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08737e+09 6.31707e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08743e+09 6.31707e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1216000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08743e+09 6.31707e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 110500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08754e+09 6.31707e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 12500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08755e+09 6.31708e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 22500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08757e+09 6.31708e+09 6.33632e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 21500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08758e+09 6.31708e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 137000
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08772e+09 6.31708e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 12000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.08772e+09 6.31708e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 56493500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.14422e+09 6.31708e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 46500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.14422e+09 6.31708e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 22326000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.16654e+09 6.31708e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4323500
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  1.0188e+10 9.16871e+09 6.31924e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3013500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.0189e+10 9.16971e+09 6.32024e+09 6.33633e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1474265000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  1.05576e+10 9.53828e+09 6.68881e+09 6.70489e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 22924500
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  1.05652e+10 9.53828e+09 6.69645e+09 6.71254e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 3243000
+
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69645e+09 6.71416e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 2092500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69645e+09 6.71625e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 241000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69645e+09 6.71625e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69645e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 260000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69645e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69645e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 2028500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69645e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69647e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 24000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53828e+09 6.69647e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53834e+09 6.69647e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1201000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53834e+09 6.69647e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 136000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53848e+09 6.69647e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53848e+09 6.69648e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3000
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53849e+09 6.69648e+09 6.71627e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.5385e+09 6.69648e+09 6.71628e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 125500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53862e+09 6.69648e+09 6.71628e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 11000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.53863e+09 6.69648e+09 6.71628e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 94091500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.63272e+09 6.69648e+09 6.71628e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 43500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.63272e+09 6.69648e+09 6.71628e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 6492500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.05669e+10 9.63921e+09 6.69648e+09 6.71628e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 5568500
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  1.05669e+10 9.64199e+09 6.69926e+09 6.71628e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 5485500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.05669e+10 9.64382e+09 6.70109e+09 6.71811e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1486114000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  1.09384e+10 1.00154e+10 7.07262e+09 7.08963e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 7263500
+
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  1.09408e+10 1.00154e+10 7.07504e+09 7.09206e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 6000500
+
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.09438e+10 1.00154e+10 7.07504e+09 7.09506e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 4369000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09506e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 274500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09506e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09506e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 261000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09506e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 64500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09506e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 670000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09506e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 147000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07504e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07506e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4663500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07506e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07506e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 105500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07506e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 14500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00154e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 126500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00155e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.00155e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 86630000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.01022e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 50500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.01022e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1446500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.01036e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4886000
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.09482e+10 1.01036e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 1466500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09497e+10 1.01036e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 1962500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.09497e+10 1.01036e+10 7.07507e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1330500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09497e+10 1.01036e+10 7.0764e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 2113500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.09497e+10 1.01036e+10 7.0764e+09 7.09508e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 407500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09497e+10 1.01036e+10 7.0764e+09 7.09549e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 238500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.09497e+10 1.01036e+10 7.0764e+09 7.09549e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 116000
+cpu_state is  1 0 0 1 0 0 0 0
+ criticality_sum is  1.09497e+10 1.01036e+10 7.0764e+09 7.0956e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 110000
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  1.09498e+10 1.01036e+10 7.0764e+09 7.09566e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 166500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.09498e+10 1.01036e+10 7.07645e+09 7.09571e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19298500
+
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01084e+10 7.08128e+09 7.10054e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 260000
+
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01085e+10 7.08136e+09 7.10063e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 199500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01086e+10 7.08146e+09 7.10063e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 57500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01087e+10 7.08146e+09 7.10063e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 449000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01087e+10 7.08146e+09 7.10063e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 34500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01087e+10 7.08146e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 67500
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01087e+10 7.08146e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 5500
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01087e+10 7.08147e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 29000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01087e+10 7.08148e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 533500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.09546e+10 1.01092e+10 7.08148e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 37500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01093e+10 7.08148e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 85000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01093e+10 7.08148e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 732000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01093e+10 7.08148e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 94000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01093e+10 7.08158e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 17500
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01094e+10 7.08159e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 104000
+
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01094e+10 7.08162e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 81500
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01094e+10 7.08162e+09 7.10066e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 24000
+
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01094e+10 7.08162e+09 7.10067e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 204000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.01095e+10 7.08162e+09 7.10077e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 228234500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.03378e+10 7.08162e+09 7.10077e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1502500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.09547e+10 1.03378e+10 7.08162e+09 7.10077e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 2822500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  1.09547e+10 1.03406e+10 7.08162e+09 7.10077e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4317000
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  1.09547e+10 1.03428e+10 7.08162e+09 7.10293e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 2295500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.09555e+10 1.03435e+10 7.08162e+09 7.10369e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 1495048500
+
+cpu_state is  1 1 1 0 0 0 0 0
+ criticality_sum is  1.13293e+10 1.07173e+10 7.45538e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 4377500
+
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.07187e+10 7.45684e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 486000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.0719e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 126812500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08458e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 195500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08458e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 127500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08459e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08459e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 109000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.0846e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 15500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.0846e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 133500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08462e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 15000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08462e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 13660000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08598e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 50500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08598e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4379500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.13307e+10 1.08642e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3381000
+cpu_state is  1 1 0 1 0 0 0 0
+ criticality_sum is  1.13324e+10 1.08659e+10 7.45709e+09 7.47746e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 3008500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.13334e+10 1.08669e+10 7.45709e+09 7.47847e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 1484014000
+
+cpu_state is  1 0 1 1 0 0 0 0
+ criticality_sum is  1.17044e+10 1.12379e+10 7.8281e+09 7.84947e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 637500
+
+cpu_state is  0 0 1 1 0 0 0 0
+ criticality_sum is  1.17046e+10 1.12379e+10 7.82831e+09 7.84968e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 4838500
+
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.12379e+10 7.83073e+09 7.8521e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 1493500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.12379e+10 7.83222e+09 7.8521e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 271000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.12379e+10 7.83222e+09 7.8521e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has reached its barrier.
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 21000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.12379e+10 7.83224e+09 7.8521e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 229000
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.12379e+10 7.83224e+09 7.8521e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has reached its barrier.
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 66000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.1238e+10 7.83224e+09 7.8521e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 153000
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.17046e+10 1.1238e+10 7.83224e+09 7.8521e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has reached its barrier.
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 16500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.1238e+10 7.83224e+09 7.85212e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 1833500
+cpu_state is  1 0 0 0 0 0 0 0
+ criticality_sum is  1.17046e+10 1.1238e+10 7.83224e+09 7.85212e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has reached its barrier.
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 19000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1238e+10 7.83224e+09 7.85212e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 1349500
+cpu_state is  0 0 0 1 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1238e+10 7.83224e+09 7.85212e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become inactive.
+ Time for this interval is 11500
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1238e+10 7.83224e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 97000
+cpu_state is  0 0 1 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1238e+10 7.83224e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 1000
+cpu_state is  0 1 1 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1238e+10 7.83224e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become inactive.
+ Time for this interval is 20500
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1238e+10 7.83225e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 143500
+cpu_state is  1 1 0 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.12381e+10 7.83225e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become inactive.
+ Time for this interval is 11000
+
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.12382e+10 7.83225e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become inactive.
+ Time for this interval is 4627000
+
+cpu_state is  0 0 0 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.12428e+10 7.83225e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus1 has become active.
+ Time for this interval is 43500
+cpu_state is  0 1 0 0 0 0 0 0
+ criticality_sum is  1.17047e+10 1.12428e+10 7.83225e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus3 has become active.
+ Time for this interval is 3238500
+cpu_state is  0 1 0 1 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1246e+10 7.83225e+09 7.85213e+09 0 0 0 0
+
+ Thread on system.switch_cpus2 has become active.
+ Time for this interval is 2903000
+cpu_state is  0 1 1 1 0 0 0 0
+ criticality_sum is  1.17047e+10 1.12475e+10 7.83225e+09 7.85358e+09 0 0 0 0
+
+ Thread on system.switch_cpus0 has become active.
+ Time for this interval is 4741500
+cpu_state is  1 1 1 1 0 0 0 0
+ criticality_sum is  1.17047e+10 1.1249e+10 7.83384e+09 7.85516e+09 0 0 0 0
+
